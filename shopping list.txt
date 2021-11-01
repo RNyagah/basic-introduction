@@ -3,3 +3,5 @@ oranges
 bananas
 cherries 
 melons
+carrots 
+cereals
